@@ -42,4 +42,3 @@ class ConcoursCompetences
         return $tabCouleur;
     }
 }
-?>

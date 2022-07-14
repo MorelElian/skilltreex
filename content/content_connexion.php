@@ -1,9 +1,9 @@
 <?php
-function affiche(){
-    if(array_key_exists('loggedIn',$_SESSION) && $_SESSION["loggedIn"]) {
+function affiche()
+{
+    if (array_key_exists('loggedIn', $_SESSION) && $_SESSION["loggedIn"]) {
         echo "<div class='bg-success p-2 text-dark bg-opacity-50'>Vous êtes actuellement connecté. Pour se connecter à une autre session, déconnectez-vous d'abord de la session actuelle.</div>";
-    }
-    else {
+    } else {
         echo <<<CHAINE_DE_FIN
         <div class='row'>
             <div class='col-sm-2'></div>
