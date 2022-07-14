@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+.avertissement {
+    color:red;
+    background-color : blueviolet;
+    font-size:large;
+    font-weight:bold;
+    font-variant:small-caps
+ }
+ 
+ .liste {
+     color: black;
+     background-attachment: white;
+     font-size:20px;
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+.yellow{
+     background-color: rgb(204, 190, 0); 
+     padding-top:15px; 
+     padding-bottom:15px;
+}
+
+.red{
+    background-color: red; 
+    padding-top:15px; 
+    padding-bottom:15px;
+}
+
+.white{
+    background-color: white; 
+    padding-top:15px; 
+    padding-bottom:15px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.titre {
+    color: black;
+    font-size:50px;
+    font-weight:bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.marge{
+    padding-top:100px;
+}
+
+p.temoignage{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: x-large;
+}
+
+div.green {
+    background-color: rgba(5, 187, 44, 0.699);   
+}
+
+div.blue{
+    background-color: rgba(30, 38, 156, 0.699);
+}
+

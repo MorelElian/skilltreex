@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.connection{
+    color : black;
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.Titre{
+    color : black;
+    font-size: 150px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.body {
+    color:black;
+    background-color:white;
+    background-image: url(tableau\ blanc\ 1.png);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    }

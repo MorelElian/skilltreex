@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+table{
+	border:1px solid black;
+}
+tr, td{
+	border:1px solid black;
+}
+
+.bg-D{
+	background-color: #ff9900;
+}
+
+.bg-B{
+	background-color: #90c90c;
+}
+
+.bg-C{
+	background-color: #fae100;
+}
+
+.bg-A{
+	background-color: #319203;
+}
+
+.bg-E{
+	background-color: #c50111;
+}
+
+.bg-F{
+	background-color: #838383;
+}
+
+
+p {
+    color:white;
+}
+
+.PT {
+	font-family: 'PT Serif', serif;	
+}
+
+.dancing {
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.image {
+	background-image: url("../../skilltree4.png");
+	background-position: 120% 40%;
+}
